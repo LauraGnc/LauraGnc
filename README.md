@@ -1,8 +1,13 @@
 # Hello, I'm Laura ✨
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/laura-gnc/)
-[![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.giannico.fr)
-[![Kickstarter](https://img.shields.io/badge/kickstarter-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
+[![Dribble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://www.linkedin.com/in/laura-gnc/)
+[![Behance](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)](https://www.linkedin.com/in/laura-gnc/)
+
+[![Kickstarter](https://img.shields.io/static/v1?style=for-the-badge&message=Kickstarter&color=222222&logo=Kickstarter&logoColor=05CE78&label=)](https://www.linkedin.com/in/laura-gnc/)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://www.linkedin.com/in/laura-gnc/)
+[![Gitlab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)](https://www.linkedin.com/in/laura-gnc/)
+
 
 DESCRIPTION A FAIRE
 
@@ -12,34 +17,34 @@ DESCRIPTION A FAIRE
 
 ## Stack
 
-![Wordpress](https://img.shields.io/badge/Wordpress-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
+![Wordpress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![VueJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 
-![VueJs](https://img.shields.io/badge/-VUEJS-turquoise?style=social&logo=appveyor)
-
-
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=20232a)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=20232a)
-![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
-![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)\
-![Git](https://img.shields.io/badge/Git-%232671E5.svg?style=for-the-badge&logo=githubactions&color=20232a)
-
-![Photoshop](https://img.shields.io/badge/adonisjs%20-%23323330.svg?&style=for-the-badge&logo=adonisjs&color=20232a)
-![Illustrator](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&color=20232a)
-![InDesign](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&color=20232a)
-![Figma](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&color=20232a)
+![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![InDesign](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=for-the-badge&logo=Adobe%20InDesign&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 <!--
-**LauraGnc/LauraGnc** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+SKILLS THAT I WILL HAVE IN THE FUTURE:
 
-Here are some ideas to get you started:
+![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
+![XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
+![PremierePro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![AfterEffects](https://img.shields.io/badge/Adobe%20after%20affects-CF96FD?style=for-the-badge&logo=Adobe%20after%20effects&logoColor=393665)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+=====
+
+https://dev.to/envoy_/150-badges-for-github-pnk
 -->
