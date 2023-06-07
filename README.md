@@ -13,7 +13,7 @@ DESCRIPTION A FAIRE
 ## Stack
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
-![VueJS](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png)
+![VueJs](https://img.shields.io/badge/VueJs-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=20232a)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=20232a)
 ![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
