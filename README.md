@@ -1,10 +1,8 @@
-# Hello there ✨
+# Hello, I'm Laura ✨
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=0055A4)](https://www.linkedin.com/in/laura-gnc/)
 [![Portfolio](https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&color=FFFFFF)](https://www.giannico.fr)
 [![Kickstarter](https://img.shields.io/badge/kickstarter-0077B5?style=for-the-badge&color=EF4135)](https://fr.fiverr.com/alexishenry363)
-
-I am Laura.
 
 DESCRIPTION A FAIRE
 
@@ -15,7 +13,7 @@ DESCRIPTION A FAIRE
 ## Stack
 
 ![Wordpress](https://img.shields.io/badge/Wordpress-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
-![VueJS](https://img.shields.io/badge/VueJS-%23000000.svg?style=for-the-badge&logo=symfony&color=20232a)
+![VueJS]([https://img.shields.io/badge/VueJS-%23000000.svg?style=for-the-badge&logo=symfony&color=20232a](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png))
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=20232a)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=20232a)
 ![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
