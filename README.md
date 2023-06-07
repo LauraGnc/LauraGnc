@@ -14,13 +14,13 @@ DESCRIPTION A FAIRE
 
 ## Stack
 
-![Wordpress](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
-![VueJS](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&color=20232a)
+![Wordpress](https://img.shields.io/badge/Wordpress-%23FF2D20.svg?style=for-the-badge&logo=laravel&color=20232a)
+![VueJS](https://img.shields.io/badge/VueJS-%23000000.svg?style=for-the-badge&logo=symfony&color=20232a)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=20232a)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&color=20232a)
-![HTML](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
-![CSS](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Git](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&color=20232a)
+![HTML](https://img.shields.io/badge/HTML-%2320232a.svg?style=for-the-badge&logo=react&color=20232a)
+![CSS](https://img.shields.io/badge/CSS-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/Git%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&color=20232a)
 
 ![Photoshop](https://img.shields.io/badge/adonisjs%20-%23323330.svg?&style=for-the-badge&logo=adonisjs&color=20232a)
 ![Illustrator](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&color=20232a)
