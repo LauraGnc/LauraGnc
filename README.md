@@ -13,7 +13,10 @@ CONTACT FOR MY FUTUR BUSINESS
 
 -->
 
-DESCRIPTION A FAIRE
+I am a junior <b>UX/Webdesigner</b> from France (Strasbourg).
+I used to live in London for 7 years. I speak fluently English & French.
+
+Curious, dynamic and empathic, I offer 2 years of experience as a frontend developer. My objective is to make a positive impact on clients, co-workers and the Internet using my skills and experiennce to design and bring to life compelling & attractive websites.
 
 <!--
 <img src="" />
